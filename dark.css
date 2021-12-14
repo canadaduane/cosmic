@@ -1,9 +1,13 @@
 .cosmic-applications-dialog {
-       background-color: #36322f;
+       background-color: rgba(25, 25, 25, 0.95); /* #191919 */
+}
+
+.app-well-app:focus .overview-icon {
+	background-color: rgba(25, 25, 25, 0.95); /*background-color: #9b9b9b;*/
 }
 
 .cosmic-applications-icon {
-       color: #9b9b9b;
+       color: white; /* #9b9b9b */
 }
 
 .cosmic-applications-folder-title {

@@ -7,7 +7,7 @@
 }
 
 .cosmic-applications-separator {
-	background: #000000;
+	background: white; /* #000000 */
 }
 
 .cosmic-app-display {
@@ -25,6 +25,7 @@
 
 .cosmic-applications-search-entry {
 	width: 504px;  /* 168 * 3 */
+	background: rgba(255, 255, 255, 0.95);
 }
 
 .cosmic-app-icon {

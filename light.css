@@ -1,13 +1,9 @@
-.cosmic-applications-dialog .overview-icon {
-	color: black;
+.cosmic-applications-dialog {
+	background-color: rgba(25, 25, 25, 0.95); /* #191919 */
 }
 
 .app-well-app:focus .overview-icon {
-	background-color: #9b9b9b;
-}
-
-.app-well-app:hover .overview-icon, .app-well-app:selected .overview-icon {
-	background-color: #d0d0d0;
+	background-color: rgba(25, 25, 25, 0.95); /*background-color: #9b9b9b;*/
 }
 
 .cosmic-applications-icon {
